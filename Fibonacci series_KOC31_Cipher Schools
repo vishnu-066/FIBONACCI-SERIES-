@@ -1,3 +1,4 @@
+import math
 def d(x):
     s = int(math.sqrt(x))
     return s * s == x
